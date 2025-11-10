@@ -1,13 +1,12 @@
 export const siteConfig = {
-  name: "Sandi Noshy",
+  name: "Madline Melad",
   title: "Junior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  description: "Portfolio website of madline melad",
   accentColor: "#1d4ed8",
   social: {
-    email: "noshysamir17@gmail.com",
-    linkedin: "https://www.linkedin.com/in/sandi-noshy-988503320/",
-    twitter: "https://x.com/sandiinoshy15",
-    github: "https://github.com/Sandi784-boot",
+    email: "madlinemilad05@gmail.com",
+    linkedin: "https://www.linkedin.com/in/madline-milad-b8a550223/",
+    github: "https://github.com/MadlineMilad",
   },
  aboutMe: `
 Passionate Frontend Developer based in Alexandria with experience as a Freelance Web Developer and a Self-Improvement Teacher for Children.
@@ -20,73 +19,74 @@ Skilled in HTML, CSS, JavaScript, Bootstrap, and Microsoft Office, with strength
   skills: ["Javascript", "React", "Laravel", "Python", "Shopify"],
   projects: [
     {
-      name: "Abana – Personal Website",
+      name: "Random Quotes Generator",
       description:
-        "Abana – A clean and responsive personal website built for an Italian client, designed with HTML, CSS and JavaScript to deliver a seamless experience on mobile and desktop.",
-      link: "https://abana-pulizia.netlify.app/",
+        "Interactive web app that generates random quotes, showcasing DOM manipulation and responsive design.",
+      link: "https://magnificent-alpaca-1a91a0.netlify.app/",
       skills: ["HTML", "CSS", "JavaScript"],
     },
     {
-      name: "Creativto – Programming Website",
+      name: "Interactive Counter App",
       description:
-        "A personal website built with HTML, CSS, JavaScript, and Bootstrap, providing programming tips, resources for beginners, and interactive features.",
-      link: "https://hungry-kirch-0329dc.netlify.app/",
+        "A simple React app that lets users increase, decrease, or hide a counter, showcasing state management and interactive UI.",
+      link: "https://fabulous-druid-8484dd.netlify.app/",
       skills: ["HTML", "CSS", "JavaScript"],
     },
 
   ],
   experience: [
     {
-      company: "Freelanceer",
+      company: "Frontend Developer – Freelancer",
       title: "Junior Software Engineer",
-      dateRange: "Jan 2023 - Present",
+      dateRange: " Aug 2023- Present",
       bullets: [
         "Built responsive and interactive websites using HTML, CSS, and JavaScript",
         "Worked on client projects, ensuring mobile-friendly and user-centric designs",
         "Collaborated with others and improved code quality through feedback"
       ],
     },
-    {
-      company: "Freelanceer",
-      title: "Self-Improvement Teacher for Children",
-      dateRange: "Jun 2023 - present",
+     {
+      company: "Saint Marc Tourism Company",
+      title: "Translator and Reservation Agent",
+      dateRange: "Oct 2024 - Mar 2025",
     bullets: [
-  "Planned and delivered interactive lessons to help children build confidence and learn effectively",
-  "Created engaging activities to encourage participation and learning",
-  "Developed organizational and communication skills through teaching experience",
+  "Assisted in administrative tasks and supported office operations",
+  "Improved organizational and teamwork skills",
 ],
     },
     {
-      company: " Freelanceer",
-      title: "Frontend Developer",
-      dateRange: "Aug 2023 - present",
+      company: " El-Mehwar Government Office",
+      title: "Assistant",
+      dateRange: "Sep 2021 - Dec 2021",
     bullets: [
-  "Built responsive and interactive websites using HTML, CSS, JavaScript, and Bootstrap",
-  "Designed clean and user-friendly layouts for personal and client projects",
-  "Ensured websites are fully responsive and work seamlessly on mobile and desktop",
+  "Assisted in administrative tasks and supported office operations",
+  "Improved organizational and teamwork skills",
 ],
     },
   ],
   education: [
     {
-   school: "Alexandria University, Faculty of Science, Computer Science Department",
-degree: "Bachelor of Computer Science",
-dateRange: "Sept 2022 - Jun 2026",
+   school: "Faculty of Tourism and Hotels, Alexandria University",
+degree: "Bachelor of  Tourism and Hotels",
+dateRange: "Sept 2020 - Jun 2024",
 achievements: [
-  "Completed coursework and projects related to web development",
-        "Graduated with 3.23 GPA", 
-      "Gained foundational skills in programming, problem-solving, and UI design",
-],
-
+  "Completed coursework in hotel management, tourism operations, and hospitality services",
+  "Graduated with a 3.23 GPA",
+  "Developed skills in communication, teamwork, and customer service",
+  "Gained practical experience through projects and case studies in hospitality management"
+]
     },
     {
-     school: "The National Telecommunication Institute (NTI)",
+     school: "Full Stack Development Course – Route Academy, Alexandria",
 degree: "React and Web Design Course",
-dateRange: "2019",
+dateRange: "2023-2024",
 achievements: [
-  "Completed 120+ hours of coursework",
-  "Built 10+ projects",
-  "Specialized in React and web design",
+  "Built interactive and responsive web pages using HTML5, CSS3, and JavaScript",
+  "Implemented designs with CSS frameworks and Bootstrap for professional layouts",
+  "Developed front-end applications using React library",
+  "Applied responsive design principles to ensure optimal user experience across devices",
+  "Collaborated in team projects, enhancing communication and teamwork skills"
+
 ],
 
     },
